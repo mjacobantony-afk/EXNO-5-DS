@@ -41,6 +41,7 @@ plt.show()
 
 ```
 <img width="642" height="510" alt="DS Ex5 - Output 2" src="https://github.com/user-attachments/assets/51c34346-9e59-4295-9226-cc2ba5babc18" />
+
 ```
 
 sns.countplot(x='pclass', hue='survived', data=df)
